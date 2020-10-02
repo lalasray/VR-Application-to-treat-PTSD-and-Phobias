@@ -1,5 +1,5 @@
 # unity-vr-industry
-VR Therapy in the Mental Health industry. Unity mobile app project for Udacity's VRND course - Project 5.
+VR Therapy in the Mental Health industry.
 
 ### Virtual Reality Mental Health Therapy
 VR is taking off in the film and gaming industries, but it has many applications in the medical field. Virtual Reality Therapy is helping patients around the world to relieve mental health conditions like PTSD, Alzheimer's, and Social Anxiety.
