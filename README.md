@@ -6,7 +6,8 @@ VR is taking off in the film and gaming industries, but it has many applications
 
 ![VR Mental Health Therapy](/screenshots/1.png?raw=true "VR Geek Apartment-02")
 
-After conducting research, I created a mobile virtual reality experience built for Google Cardboard with 'information booths' which include both visual and audio feedback for users.
+# VR-Application-to-treat-PTSD-and-Phobias
+I created a mobile virtual reality experience built for Google Cardboard with 'information booths' which include both visual and audio feedback for users.
 
 ![VR Mental Health Therapy](/screenshots/3.png?raw=true "VR Geek Apartment-02")
 
@@ -22,4 +23,3 @@ Controls:
  * Open project in Unity 2017.1.0p5 
  * In the Build Setting switch the platform to Android or iOS
 
-# VR-Application-to-treat-PTSD-and-Phobias
